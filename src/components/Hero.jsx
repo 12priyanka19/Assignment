@@ -19,11 +19,10 @@ export  function Hero() {
                 <div >Powerful, self-serve product and growth analytics to help you convert,engage, </div>
                 <div > and retain more users. Trusted by over 4,000 startups.</div>
             </div>
-            <div className='container flex-row gap-3 p-2'>
-                <div className='w-28 h-12 w-full md:w-auto border-2 border-inherit py-3 px-5 flex flex-row gap-1 items-center justify-center rounded-3xl text-center'><img src={icon} className='w-4 h-4'/><div>Demo</div></div>
-                <div className='w-28 h-12  w-full md:w-auto border-2 font-semibold py-3 px-5 rounded-3xl bg-red-600 text-white text-center'>Sign up</div>
+            <div className=' flex lg:flex-row flex-col w-full justify-center gap-3 p-2'>
+                <div className='lg:w-28 h-12 w-full md:w-auto border-2 border-inherit py-3 px-5 flex flex-row gap-1 items-center justify-center rounded-3xl text-center'><img src={icon} className='w-4 h-4'/><div>Demo</div></div>
+                <div className='lg:w-28 h-12  w-full md:w-auto border-2 font-semibold py-3 px-5 rounded-3xl bg-red-600 text-white text-center'>Sign up</div>
                 </div>
-            
         </div>
         <div><img src={screen} className={screen}/></div>
         <div className='flex flex-col justify-center gap-8 items-center lg:p-0 p-4 justify-around'>
