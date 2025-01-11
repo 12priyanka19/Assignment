@@ -6,7 +6,7 @@ export function Footer(){
             <div className='w-full  bg-slate-100 py-16 lg:py-24 '>
                 <div className='flex flex-col  flex-nowrap items-center gap-8'>
                     <div className='text-xl font-semibold'>Start your free trial</div>
-                    <div className='font-normal text-xl text-slate-600 fontchange text-center'>Join over 4,000+ startups already growing with Untitled.</div>
+                    <div className='font-normal lg:text-xl text-slate-600 text-base text-center'>Join over 4,000+ startups already growing with Untitled.</div>
                     <div className="flex lg:flex-row gap-3 justify-center flex-col  w-64">
                         <button className=" h-12 w-full rounded-md bg-white border-slate-300 border">Learn more</button>
                         <button className=' h-12 w-full bg-red-600 text-white rounded-md'>Get Started</button>

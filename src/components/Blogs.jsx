@@ -20,7 +20,7 @@ export function Blogs(){
                         View All posts
                 </div>
             </div>
-            <div className='flex flex-col gap-8 lg:p-0 p-4 flex-nowrap lg:flex-row justify-between'>
+            <div className='flex flex-col gap-8 lg:p-0 p-4 lg:w-3/4 w-full flex-nowrap lg:flex-row justify-between'>
                 <div className='flex flex-col gap-6 max-w-sm'>
                     <img src={blog1} className='w-96 h-60'/>
                     <div className='text-red-500 font-semibold'>Design</div>
