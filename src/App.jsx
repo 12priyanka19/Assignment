@@ -12,9 +12,10 @@ import { Footer } from './components/Footer'
 function App() {
   return (
     <>
-      <Navbar/>
+     
       <div className='flex flex-col gap-16'>
-        <Hero/>
+        <Navbar />
+        <Hero />
         <Feature/>
         <Section/>
         <Question/>

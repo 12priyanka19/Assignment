@@ -24,28 +24,28 @@ export function Question(){
                     </div>
                 </div>
                 <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>Can I change my plan later?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
+                    <div className='font-semibold mt-7'>Can I change my plan later?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
                 </div>
                 <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>Can other info be added to an invoice?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
+                    <div className='font-semibold mt-7'>Can other info be added to an invoice?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
                 </div>
                 <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>What is your cancellation policy?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
+                    <div className='font-semibold mt-7'>What is your cancellation policy?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
                 </div>
                 <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>Can other info be added to an invoice?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
+                    <div className='font-semibold mt-7'>Can other info be added to an invoice?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
+                </div>
+                <div className='flex flex-row  text-left flex-nowrap   border-t-2 border-slate-200 justify-between  ' >
+                    <div className='font-semibold mt-7'>How does billing work?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
                 </div>
                 <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>How does billing work?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
-                </div>
-                <div className='flex flex-row  text-left flex-nowrap  border-t-2 border-slate-200 justify-between  ' >
-                    <div className='font-semibold'>How do I change my account email?</div>
-                    <div><img src={plus} className='w-6 h-6'/></div>
+                    <div className='font-semibold mt-7'>How do I change my account email?</div>
+                    <div><img src={plus} className='w-6 h-6 mt-7'/></div>
                 </div>
             </div>
         </div>
