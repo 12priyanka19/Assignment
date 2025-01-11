@@ -4,6 +4,10 @@
 import { Navbar } from './components/Navbar'
 import {Hero} from './components/Hero'
 import { Feature } from './components/Features'
+import { Section } from './components/Section'
+import { Question } from './components/Questions'
+import { Blogs } from './components/Blogs'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -12,6 +16,10 @@ function App() {
       <div className='flex flex-col gap-16'>
         <Hero/>
         <Feature/>
+        <Section/>
+        <Question/>
+        <Blogs/>
+        <Footer/>
       </div>
     </>
   )
